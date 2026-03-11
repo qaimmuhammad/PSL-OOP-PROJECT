@@ -1,0 +1,99 @@
+# PSL Player Data File
+# Format: PlayerID|FullName|Nationality|Age|Role|BattingStyle|BowlingStyle|TotalRuns|TotalWickets|MatchesPlayed|Salary
+# Salary in PKR. BowlingStyle = N/A for pure batsmen.
+# ---------------------------------------------------------------------------------
+# LAHORE QALANDARS
+PSL-LQ-001|Babar Azam|Pakistani|30|Batsman|Right-Handed|Right-Arm Medium|4521|12|85|12500000
+PSL-LQ-002|Shaheen Shah Afridi|Pakistani|25|Bowler|Left-Handed|Left-Arm Fast|310|102|80|10000000
+PSL-LQ-003|Fakhar Zaman|Pakistani|34|Batsman|Left-Handed|N/A|3812|4|79|8500000
+PSL-LQ-004|Haris Rauf|Pakistani|31|Bowler|Right-Handed|Right-Arm Fast|180|98|75|9000000
+PSL-LQ-005|Abdullah Shafique|Pakistani|25|Batsman|Right-Handed|Right-Arm Off-Break|2140|6|48|6500000
+PSL-LQ-006|David Wiese|South African|40|All-Rounder|Right-Handed|Right-Arm Medium-Fast|1890|78|72|7000000
+PSL-LQ-007|Sikandar Raza|Zimbabwean|38|All-Rounder|Right-Handed|Right-Arm Off-Break|2760|88|82|7500000
+PSL-LQ-008|Phil Salt|English|28|Wicket-Keeper|Right-Handed|N/A|1430|0|34|5500000
+PSL-LQ-009|Zaman Khan|Pakistani|24|Bowler|Left-Handed|Left-Arm Fast-Medium|95|54|42|4000000
+PSL-LQ-010|Samit Patel|English|40|All-Rounder|Left-Handed|Right-Arm Off-Break|1100|56|55|5000000
+PSL-LQ-011|Agha Salman|Pakistani|29|All-Rounder|Right-Handed|Right-Arm Off-Break|980|38|44|4500000
+PSL-LQ-012|Jalat Khan|Pakistani|22|Bowler|Right-Handed|Right-Arm Fast|55|20|18|2500000
+PSL-LQ-013|Liam Dawson|English|34|All-Rounder|Left-Handed|Right-Arm Off-Break|870|44|51|4200000
+PSL-LQ-014|Rawail Khan|Pakistani|20|Batsman|Right-Handed|N/A|310|0|12|2000000
+# ---------------------------------------------------------------------------------
+# KARACHI KINGS
+PSL-KK-001|Saim Ayub|Pakistani|23|Batsman|Left-Handed|Right-Arm Leg-Break|1854|18|41|7000000
+PSL-KK-002|Mohammad Amir|Pakistani|32|Bowler|Left-Handed|Left-Arm Fast-Medium|400|112|95|9500000
+PSL-KK-003|James Vince|English|33|Batsman|Right-Handed|Right-Arm Off-Break|2280|8|60|6000000
+PSL-KK-004|Usama Mir|Pakistani|28|Bowler|Right-Handed|Right-Arm Leg-Break|220|88|62|6500000
+PSL-KK-005|Mohammad Rizwan|Pakistani|32|Wicket-Keeper|Right-Handed|N/A|4230|0|91|11000000
+PSL-KK-006|Imad Wasim|Pakistani|36|All-Rounder|Left-Handed|Left-Arm Orthodox|1960|92|87|8000000
+PSL-KK-007|Daniel Sams|Australian|31|All-Rounder|Left-Handed|Right-Arm Fast-Medium|1120|60|58|5500000
+PSL-KK-008|Tabraiz Shamsi|South African|34|Bowler|Left-Handed|Left-Arm Chinaman|110|74|55|6000000
+PSL-KK-009|Mir Hamza|Pakistani|33|Bowler|Right-Handed|Left-Arm Fast-Medium|90|68|60|5000000
+PSL-KK-010|Tom Abell|English|30|Batsman|Right-Handed|Right-Arm Medium|980|12|38|4000000
+PSL-KK-011|Aamer Yamin|Pakistani|30|All-Rounder|Right-Handed|Right-Arm Medium-Fast|720|40|46|3500000
+PSL-KK-012|Irfan Khan Niazi|Pakistani|21|Batsman|Left-Handed|N/A|420|0|16|2200000
+PSL-KK-013|Qasim Akram|Pakistani|24|All-Rounder|Right-Handed|Right-Arm Off-Break|560|28|30|3000000
+PSL-KK-014|Akif Javed|Pakistani|23|Bowler|Right-Handed|Right-Arm Fast-Medium|80|34|28|2800000
+# ---------------------------------------------------------------------------------
+# MULTAN SULTANS
+PSL-MS-001|Mohammad Rizwan|Pakistani|32|Wicket-Keeper|Right-Handed|N/A|3950|0|88|11000000
+PSL-MS-002|Shan Masood|Pakistani|35|Batsman|Left-Handed|N/A|3410|0|84|8500000
+PSL-MS-003|Tim David|Singaporean|28|Batsman|Right-Handed|N/A|2100|0|52|7500000
+PSL-MS-004|Khushdil Shah|Pakistani|30|All-Rounder|Left-Handed|Left-Arm Orthodox|1340|50|62|6000000
+PSL-MS-005|Usama Mir|Pakistani|28|Bowler|Right-Handed|Right-Arm Leg-Break|215|90|63|6500000
+PSL-MS-006|Ihsanullah|Pakistani|22|Bowler|Right-Handed|Right-Arm Fast|110|58|44|5000000
+PSL-MS-007|Abbas Afridi|Pakistani|25|Bowler|Right-Handed|Right-Arm Fast-Medium|160|72|55|5500000
+PSL-MS-008|Rilee Rossouw|South African|35|Batsman|Left-Handed|Right-Arm Off-Break|2560|8|66|7000000
+PSL-MS-009|Usman Khan|Pakistani|24|Wicket-Keeper|Right-Handed|N/A|1650|0|40|4000000
+PSL-MS-010|David Willey|English|34|All-Rounder|Left-Handed|Left-Arm Fast-Medium|1020|64|60|5200000
+PSL-MS-011|Shahnawaz Dahani|Pakistani|26|Bowler|Right-Handed|Right-Arm Fast-Medium|180|76|58|5800000
+PSL-MS-012|Reeza Hendricks|South African|35|Batsman|Right-Handed|Right-Arm Off-Break|1780|4|50|4500000
+PSL-MS-013|Anwar Ali|Pakistani|37|All-Rounder|Right-Handed|Right-Arm Fast-Medium|750|45|52|3800000
+PSL-MS-014|Arafat Minhas|Pakistani|21|Bowler|Right-Handed|Right-Arm Fast|65|25|20|2000000
+# ---------------------------------------------------------------------------------
+# PESHAWAR ZALMI
+PSL-PZ-001|Babar Azam|Pakistani|30|Batsman|Right-Handed|Right-Arm Medium|4500|12|84|12500000
+PSL-PZ-002|Wahab Riaz|Pakistani|39|Bowler|Left-Handed|Left-Arm Fast-Medium|440|108|92|7000000
+PSL-PZ-003|Tom Kohler-Cadmore|English|29|Batsman|Right-Handed|N/A|1820|0|45|5500000
+PSL-PZ-004|Ben Cutting|Australian|38|All-Rounder|Right-Handed|Right-Arm Fast-Medium|1650|75|70|6000000
+PSL-PZ-005|Sahibzada Farhan|Pakistani|30|Wicket-Keeper|Right-Handed|N/A|2100|0|54|5000000
+PSL-PZ-006|Arshad Iqbal|Pakistani|25|Bowler|Right-Handed|Right-Arm Fast|120|66|48|4500000
+PSL-PZ-007|Rovman Powell|West Indian|30|Batsman|Right-Handed|Right-Arm Off-Break|1560|10|52|5500000
+PSL-PZ-008|Shoaib Malik|Pakistani|42|All-Rounder|Right-Handed|Right-Arm Off-Break|3200|55|98|6000000
+PSL-PZ-009|Asif Ali|Pakistani|33|Batsman|Right-Handed|N/A|1800|0|62|4500000
+PSL-PZ-010|Mohammad Imran|Pakistani|24|Bowler|Right-Handed|Right-Arm Fast-Medium|80|40|35|3000000
+PSL-PZ-011|Salman Irshad|Pakistani|26|Bowler|Right-Handed|Right-Arm Fast-Medium|95|52|42|3500000
+PSL-PZ-012|Azam Khan|Pakistani|26|Wicket-Keeper|Right-Handed|N/A|1020|0|38|3800000
+PSL-PZ-013|Aamir Jamal|Pakistani|28|All-Rounder|Right-Handed|Right-Arm Fast-Medium|480|38|40|3200000
+PSL-PZ-014|Mubasir Khan|Pakistani|23|All-Rounder|Right-Handed|Right-Arm Off-Break|380|24|28|2500000
+# ---------------------------------------------------------------------------------
+# ISLAMABAD UNITED
+PSL-IU-001|Shadab Khan|Pakistani|26|All-Rounder|Right-Handed|Right-Arm Leg-Break|2150|112|88|9000000
+PSL-IU-002|Paul Stirling|Irish|34|Batsman|Right-Handed|Right-Arm Off-Break|2610|22|65|6500000
+PSL-IU-003|Colin Munro|New Zealander|37|Batsman|Left-Handed|N/A|2340|0|62|6000000
+PSL-IU-004|Fawad Ahmed|Australian|42|Bowler|Right-Handed|Right-Arm Leg-Break|120|80|58|5000000
+PSL-IU-005|Alex Hales|English|35|Batsman|Right-Handed|Right-Arm Off-Break|2980|12|74|7500000
+PSL-IU-006|Faheem Ashraf|Pakistani|30|All-Rounder|Right-Handed|Right-Arm Fast-Medium|1680|88|80|7000000
+PSL-IU-007|Rumman Raees|Pakistani|35|Bowler|Left-Handed|Left-Arm Fast-Medium|200|76|65|5500000
+PSL-IU-008|Asif Ali|Pakistani|33|Batsman|Right-Handed|N/A|1820|0|62|4500000
+PSL-IU-009|Mohammad Wasim Jr|Pakistani|24|Bowler|Right-Handed|Right-Arm Fast-Medium|110|62|46|4000000
+PSL-IU-010|Luke Wood|English|28|Bowler|Left-Handed|Left-Arm Fast|120|56|44|4500000
+PSL-IU-011|Haider Ali|Pakistani|24|Batsman|Right-Handed|N/A|1250|0|44|4200000
+PSL-IU-012|Iftikhar Ahmed|Pakistani|34|All-Rounder|Right-Handed|Right-Arm Off-Break|2100|60|78|5500000
+PSL-IU-013|Zafar Gohar|Pakistani|31|All-Rounder|Left-Handed|Left-Arm Orthodox|880|54|55|3800000
+PSL-IU-014|Ali Asfand|Pakistani|20|Batsman|Right-Handed|N/A|280|0|12|2000000
+# ---------------------------------------------------------------------------------
+# QUETTA GLADIATORS
+PSL-QG-001|Sarfaraz Ahmed|Pakistani|37|Wicket-Keeper|Right-Handed|N/A|2950|0|88|8000000
+PSL-QG-002|Jason Roy|English|34|Batsman|Right-Handed|N/A|2150|5|58|7000000
+PSL-QG-003|Mohammad Nawaz|Pakistani|30|All-Rounder|Left-Handed|Left-Arm Orthodox|2020|95|84|7500000
+PSL-QG-004|Naseem Shah|Pakistani|22|Bowler|Right-Handed|Right-Arm Fast|180|88|65|8500000
+PSL-QG-005|Will Smeed|English|24|Batsman|Right-Handed|N/A|880|0|30|4500000
+PSL-QG-006|Noor Ahmad|Afghan|19|Bowler|Right-Handed|Left-Arm Chinaman|90|62|48|5000000
+PSL-QG-007|Omair Bin Yousuf|Pakistani|26|Batsman|Right-Handed|N/A|1450|0|44|4000000
+PSL-QG-008|Sohail Tanvir|Pakistani|42|Bowler|Right-Handed|Left-Arm Fast-Medium|380|125|98|5500000
+PSL-QG-009|Ahsan Ali|Pakistani|23|Batsman|Right-Handed|N/A|820|0|32|3000000
+PSL-QG-010|Mohammad Hasnain|Pakistani|25|Bowler|Right-Handed|Right-Arm Fast|120|70|52|5200000
+PSL-QG-011|Usman Qadir|Pakistani|30|Bowler|Right-Handed|Right-Arm Leg-Break|230|74|58|4800000
+PSL-QG-012|Khurram Shahzad|Pakistani|28|Bowler|Right-Handed|Right-Arm Fast-Medium|110|60|48|4000000
+PSL-QG-013|James Fuller|English|34|All-Rounder|Right-Handed|Right-Arm Fast-Medium|880|52|55|4200000
+PSL-QG-014|Keshav Maharaj|South African|34|Bowler|Right-Handed|Left-Arm Orthodox|180|82|60|5500000

@@ -1,0 +1,63 @@
+# PSL Coaching Staff Data File
+# Format: StaffID|FullName|Nationality|Role|ExperienceYears|Qualifications|FranchiseTeam|Salary
+# Salary in PKR
+# ---------------------------------------------------------------------------------
+# LAHORE QALANDARS STAFF
+CS-LQ-001|Aaqib Javed|Pakistani|Head Coach|28|ICC Level 3 Coaching Certificate|Lahore Qalandars|5000000
+CS-LQ-002|Mushtaq Ahmed|Pakistani|Bowling Coach|30|ICC Level 3 Coaching Certificate|Lahore Qalandars|3500000
+CS-LQ-003|Grant Bradburn|New Zealander|Fielding Coach|22|NZC Level 3 Coaching Certificate|Lahore Qalandars|4000000
+CS-LQ-004|Mohammad Yousuf|Pakistani|Batting Coach|25|PCB Coaching Certificate Level 3|Lahore Qalandars|3800000
+CS-LQ-005|Tahir Naqqash|Pakistani|Team Manager|20|Sports Management Diploma|Lahore Qalandars|2500000
+CS-LQ-006|Dr. Sohail Saleem|Pakistani|Physiotherapist|18|Masters in Sports Medicine|Lahore Qalandars|3000000
+CS-LQ-007|Nasir Jamshed|Pakistani|Performance Analyst|12|BSc Data Science, Cricket Analytics Cert|Lahore Qalandars|2200000
+CS-LQ-008|Rashid Latif|Pakistani|Wicket-Keeping Coach|26|ICC Level 2 Coaching Certificate|Lahore Qalandars|2800000
+# ---------------------------------------------------------------------------------
+# KARACHI KINGS STAFF
+CS-KK-001|Dean Jones (Legacy Coach)|Australian|Head Coach|35|Cricket Australia Level 4|Karachi Kings|6000000
+CS-KK-002|Wasim Akram|Pakistani|Bowling Coach|32|ICC Level 3 Coaching Certificate|Karachi Kings|5500000
+CS-KK-003|Darren Sammy|West Indian|Batting Coach|18|CWI Level 2 Coaching Certificate|Karachi Kings|4500000
+CS-KK-004|Mahmood Riaz|Pakistani|Fielding Coach|15|PCB Coaching Certificate Level 2|Karachi Kings|3000000
+CS-KK-005|Hassan Raza|Pakistani|Team Manager|22|BBA Sports Management|Karachi Kings|2500000
+CS-KK-006|Dr. Umer Farooq|Pakistani|Physiotherapist|14|MBBS, Diploma in Sports Rehabilitation|Karachi Kings|3200000
+CS-KK-007|Salman Butt|Pakistani|Batting Coach|20|ICC Level 2 Coaching Certificate|Karachi Kings|3500000
+CS-KK-008|Kamran Akmal|Pakistani|Wicket-Keeping Coach|22|PCB Coaching Certificate Level 2|Karachi Kings|2800000
+# ---------------------------------------------------------------------------------
+# MULTAN SULTANS STAFF
+CS-MS-001|Andy Flower|Zimbabwean|Head Coach|30|ECB Level 4 Coaching Certificate|Multan Sultans|6500000
+CS-MS-002|Waqar Younis|Pakistani|Bowling Coach|28|ICC Level 3 Coaching Certificate|Multan Sultans|5000000
+CS-MS-003|Michael Hussey|Australian|Batting Coach|18|CA Level 3 Coaching Certificate|Multan Sultans|5500000
+CS-MS-004|Mohammad Zahid|Pakistani|Fielding Coach|14|PCB Level 2 Coaching Certificate|Multan Sultans|3000000
+CS-MS-005|Faisal Iqbal|Pakistani|Team Manager|20|MBA Sports Management|Multan Sultans|2800000
+CS-MS-006|Dr. Nadeem Butt|Pakistani|Physiotherapist|16|MBBS, MSc Sports Medicine|Multan Sultans|3500000
+CS-MS-007|Umar Akmal|Pakistani|Wicket-Keeping Coach|14|PCB Level 2 Coaching Certificate|Multan Sultans|2500000
+CS-MS-008|Imran Farhat|Pakistani|Batting Coach|18|PCB Coaching Certificate Level 2|Multan Sultans|3200000
+# ---------------------------------------------------------------------------------
+# PESHAWAR ZALMI STAFF
+CS-PZ-001|Daren Sammy|West Indian|Head Coach|18|CWI Level 3 Coaching Certificate|Peshawar Zalmi|5500000
+CS-PZ-002|Mohammad Akram|Pakistani|Bowling Coach|24|ICC Level 2 Coaching Certificate|Peshawar Zalmi|3500000
+CS-PZ-003|Vijay Dahiya|Indian|Wicket-Keeping Coach|16|BCCI Level 2 Coaching Certificate|Peshawar Zalmi|3000000
+CS-PZ-004|Rana Naved-ul-Hasan|Pakistani|Batting Coach|20|ICC Level 2 Coaching Certificate|Peshawar Zalmi|3200000
+CS-PZ-005|Zubair Malik|Pakistani|Team Manager|18|BBA Sports Administration|Peshawar Zalmi|2400000
+CS-PZ-006|Dr. Kashif Cheema|Pakistani|Physiotherapist|12|MBBS, Sports Medicine Fellowship|Peshawar Zalmi|3000000
+CS-PZ-007|Bashir Ahmad|Pakistani|Performance Analyst|10|BSc Computer Science, Data Analytics|Peshawar Zalmi|2000000
+CS-PZ-008|Tanvir Ahmed|Pakistani|Bowling Coach|22|PCB Coaching Certificate Level 2|Peshawar Zalmi|2800000
+# ---------------------------------------------------------------------------------
+# ISLAMABAD UNITED STAFF
+CS-IU-001|Mike Hesson|New Zealander|Head Coach|24|NZC Level 4 Coaching Certificate|Islamabad United|7000000
+CS-IU-002|Saeed Ajmal|Pakistani|Bowling Coach|20|ICC Level 2 Coaching Certificate|Islamabad United|4000000
+CS-IU-003|Ricky Ponting|Australian|Batting Coach|22|CA Level 4 Coaching Certificate|Islamabad United|8000000
+CS-IU-004|Ijaz Ahmed|Pakistani|Fielding Coach|26|PCB Coaching Certificate Level 3|Islamabad United|3500000
+CS-IU-005|Abdul Razzaq|Pakistani|Team Manager|18|BSc Sports Sciences|Islamabad United|2600000
+CS-IU-006|Dr. Asim Arif|Pakistani|Physiotherapist|14|PhD Sports Medicine|Islamabad United|3800000
+CS-IU-007|Taufeeq Umar|Pakistani|Batting Coach|16|PCB Coaching Certificate Level 2|Islamabad United|3000000
+CS-IU-008|Sarfraz Nawaz|Pakistani|Bowling Coach|38|PCB Coaching Certificate Level 3|Islamabad United|3200000
+# ---------------------------------------------------------------------------------
+# QUETTA GLADIATORS STAFF
+CS-QG-001|Moin Khan|Pakistani|Head Coach|30|ICC Level 3 Coaching Certificate|Quetta Gladiators|5000000
+CS-QG-002|Saqlain Mushtaq|Pakistani|Bowling Coach|26|ICC Level 3 Coaching Certificate|Quetta Gladiators|4000000
+CS-QG-003|Azhar Mahmood|Pakistani|All-Rounder Coach|18|ECB Level 2 Coaching Certificate|Quetta Gladiators|3500000
+CS-QG-004|Inzamam-ul-Haq|Pakistani|Batting Coach|28|ICC Level 3 Coaching Certificate|Quetta Gladiators|5000000
+CS-QG-005|Agha Zahid|Pakistani|Team Manager|22|MBA Sports Management|Quetta Gladiators|2700000
+CS-QG-006|Dr. Bilal Cheema|Pakistani|Physiotherapist|18|MBBS, MSc Sports Rehabilitation|Quetta Gladiators|3300000
+CS-QG-007|Shoaib Akhtar|Pakistani|Bowling Coach|20|ICC Level 2 Coaching Certificate|Quetta Gladiators|4500000
+CS-QG-008|Moeen Ali|English|Batting Coach|12|ECB Level 2 Coaching Certificate|Quetta Gladiators|3800000

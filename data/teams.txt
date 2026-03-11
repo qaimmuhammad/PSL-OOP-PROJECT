@@ -1,0 +1,10 @@
+# PSL Franchise (Team) Data File
+# Format: FranchiseID|TeamName|City|HomeGround|Owner|TitlesWon|MatchesPlayed|MatchesWon|MatchesLost|NetRunRate|Points|JerseyColor|Founded
+# NetRunRate is starting NRR (from previous seasons history)
+# ---------------------------------------------------------------------------------
+LQ|Lahore Qalandars|Lahore|Gaddafi Stadium|Fawad Rana|1|98|52|46|+0.142|0|Green and Black|2015
+KK|Karachi Kings|Karachi|National Stadium|Salman Iqbal|1|98|47|51|-0.089|0|Blue and Gold|2015
+MS|Multan Sultans|Multan|Multan Cricket Stadium|Ali Khan Tareen|2|62|38|24|+0.312|0|Purple and Gold|2018
+PZ|Peshawar Zalmi|Peshawar|Arbab Niaz Stadium|Javed Afridi|1|98|50|48|+0.056|0|Yellow and Orange|2015
+IU|Islamabad United|Islamabad|Rawalpindi Cricket Stadium|Ali Naqvi & Amna Naqvi|2|98|55|43|+0.198|0|Red and Navy|2015
+QG|Quetta Gladiators|Quetta|Bugti Stadium|Nadeem Omar|1|98|48|50|-0.078|0|Red and Black|2015

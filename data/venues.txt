@@ -1,0 +1,13 @@
+# PSL Venues Data File
+# Format: VenueID|StadiumName|City|Country|Capacity|PitchType|HasFloodlights|MatchesHosted
+# PitchType: "Batting Friendly" | "Bowling Friendly" | "Balanced"
+# HasFloodlights: true | false
+# ---------------------------------------------------------------------------------
+V-001|Gaddafi Stadium|Lahore|Pakistan|27000|Batting Friendly|true|85
+V-002|National Stadium|Karachi|Pakistan|34228|Balanced|true|112
+V-003|Rawalpindi Cricket Stadium|Rawalpindi|Pakistan|15000|Bowling Friendly|true|55
+V-004|Multan Cricket Stadium|Multan|Pakistan|35000|Batting Friendly|true|42
+V-005|Peshawar Cricket Stadium|Peshawar|Pakistan|13500|Balanced|true|38
+V-006|Dubai International Cricket Stadium|Dubai|United Arab Emirates|25000|Batting Friendly|true|60
+V-007|Sharjah Cricket Stadium|Sharjah|United Arab Emirates|16000|Balanced|true|44
+V-008|Abu Dhabi Cricket Ground|Abu Dhabi|United Arab Emirates|20000|Bowling Friendly|true|30
