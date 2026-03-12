@@ -76,4 +76,3 @@ class CoachingStaff:
     def __str__(self):
         """Fulfills the dunder method requirement."""
         return f"{self._full_name} ({self._role})"
-    

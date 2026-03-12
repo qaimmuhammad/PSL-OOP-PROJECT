@@ -83,12 +83,3 @@ class Venue:
     def __str__(self):
         """Required __str__ dunder method."""
         return f"{self._stadium_name} ({self._city})"
-
-# --- Quick Test Command ---
-if __name__ == "__main__":
-    try:
-        # Testing pipe-delimited loading
-        v = Venue.load_from_line("V-01|Gaddafi Stadium|Lahore|Pakistan|27000|Balanced|True|10")
-        v.display_info()
-    except Exception as e:
-        print(f"Error: {e}") 
